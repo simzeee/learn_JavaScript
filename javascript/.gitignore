@@ -1,0 +1,17 @@
+/node_modules
+/bin/configlet
+/bin/configlet.exe
+/pnpm-lock.yaml
+/yarn.lock
+
+.eslintrc
+.npmrc
+babel.config.js
+*spec.js
+*.md
+LICENSE
+package.json
+.exercism
+package-lock.json
+
+node_modules
